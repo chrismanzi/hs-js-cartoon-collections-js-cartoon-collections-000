@@ -34,6 +34,7 @@ function findTheCheese (foods) {
   if (foods[i]=="cheddar"
   ||foods[i]=="gouda"
   ||foods[i]=="camembert"
+  ||foods[i]=="swiss"
   ){
     return foods[i];
   }
