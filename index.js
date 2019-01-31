@@ -51,7 +51,8 @@ function wordsThatStartWithB(words){
   }
 }
 
-"brian".startsWith("b") // 
+"brian".startsWith("b") // true
+"eric".startsWith("b") // false
 
 wordsThatStartWithB(['brian', 'chase', 'david']) // ['brian']
 wordsThatStartWithB(['banana', 'berry', 'cherry']) // ['banana', 'berry']
