@@ -10,6 +10,8 @@ var dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"];
  
 
 
+var planeteerCalls = ["earth", "wind", "fire", "water", "heart"];
+
 function summonCaptainPlanet(planeteerCalls){
  return planeteerCalls.map(a=>a.toUpperCase()+"!");
 }
