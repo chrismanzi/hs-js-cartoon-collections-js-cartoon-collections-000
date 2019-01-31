@@ -50,7 +50,7 @@ function wordsThatStartWithB(words){
   var arr = []
   for(var i=0;i<words.length; i++){
     if(words[i].startsWith("b")){
-      
+      arr.push(words[i])
     }
   }
   
