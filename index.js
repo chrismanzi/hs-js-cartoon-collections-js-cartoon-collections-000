@@ -41,3 +41,18 @@ function findTheCheese (foods) {
 }
 return "no cheese!";
 }
+
+
+
+
+function wordsThatStartWithB(words){
+  
+}
+
+wordsThatStartWithB(['brian', 'chase', 'david']) // ['brian']
+wordsThatStartWithB(['banana', 'berry', 'cherry']) // ['banana', 'berry']
+
+
+
+
+
