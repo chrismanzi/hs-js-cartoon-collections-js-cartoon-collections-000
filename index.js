@@ -47,7 +47,7 @@ return "no cheese!";
 
 function wordsThatStartWithB(words){
   for(var i=0;i<words.length; i++){
-    if[words]
+    if(words)
   }
 }
 
